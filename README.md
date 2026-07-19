@@ -1,4 +1,4 @@
-# Lesson 1: JavaScript Fundamentals and User Input 🚀
+# Lesson 1: JavaScript Fundamentals and User Input
 
 Welcome to Day 1 of JavaScript! In this lesson, we cover the core syntax for writing JavaScript code, declaring variables, taking user input, and joining text together.
 
